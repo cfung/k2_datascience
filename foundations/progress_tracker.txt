@@ -9,3 +9,4 @@
 12/9 - STanford prob and Stats (EDA: complete examining relationships ) - 1 hr
 12/10 - office hours - 0.5 hr 
 12/12 - Stanford Prob and Stats (Comlete producing data: Sampling) 0.5 hr
+12/17 - SQL - 2 hrs
