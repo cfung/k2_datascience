@@ -1,0 +1,8 @@
+1. Complete Stanford MOCC CS 101
+2. 'Think Python' - first exercise of each chap, 2 projects in python + 1 notebook
+3. Review API tutorial, BeatifulSoup, SQL Bolt, SQL Lite, regex.  Projects: Github jobs, American Federation of Labor
+4. Tutorial for NumPy, Matplotlib, Pandas, Projects: Easy notebooks
+5. Review Stats, Projects: SciPy notebooks
+6. Review Linear Algebra, Project: complete questions
+7. Review multivariable calculus
+
