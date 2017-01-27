@@ -1,14 +1,16 @@
 
-12/1 - kick off - 1 hr
-12/2 - office hrs - 0.5 hr
-12/4 - Shay Howe HTML course - 1 hr
-12/5 - Stanford Prob and Stats (Intro + EDA: Examining Dist) - 2 hrs
-12/6 - Stanford Prob and Stats (EDA: One category var, One quan var) - 1 hr
-12/7 - Stanford Prob and Stats (EDA: Measures of Center, measures of spread, SD)
-12/8 - Stanford Prob and Stats (EDA: Examining relationships) - 0.5 hr
-12/9 - STanford prob and Stats (EDA: complete examining relationships ) - 1 hr
+12/1  - kick off - 1 hr
+12/2  - office hrs - 0.5 hr
+12/4  - Shay Howe HTML course - 1 hr
+12/5  - Stanford Prob and Stats (Intro + EDA: Examining Dist) - 2 hrs
+12/6  - Stanford Prob and Stats (EDA: One category var, One quan var) - 1 hr
+12/7  - Stanford Prob and Stats (EDA: Measures of Center, measures of spread, SD)
+12/8  - Stanford Prob and Stats (EDA: Examining relationships) - 0.5 hr
+12/9  - STanford prob and Stats (EDA: complete examining relationships ) - 1 hr
 12/10 - office hours - 0.5 hr 
 12/12 - Stanford Prob and Stats (Comlete producing data: Sampling) 0.5 hr
 12/17 - SQL - 2 hrs
 12/30 - Udacity Data Wrangling course
 1/18  - Pig Latin translator
+1/20  - github-jobs API project
+1/24  - us_birthrate project
